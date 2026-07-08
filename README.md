@@ -62,4 +62,8 @@ For questions or issues, please open an issue on the [GitHub repository](https:/
 
 ---
 
-**Note:** This is a collection of helper scripts. Always test scripts in a non-production environment before deploying them to live servers.
+**Notes:**
+This is a collection of helper scripts. Always test scripts in a non-production environment before deploying them to live servers.
+
+This file was created by GitHub Copilot.
+
