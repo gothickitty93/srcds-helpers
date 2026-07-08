@@ -54,7 +54,7 @@ Contributions are welcome! Feel free to submit issues and pull requests to help 
 
 ## License
 
-[Add your license here - e.g., MIT, GPL, etc.]
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
 ## Support
 
