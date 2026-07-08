@@ -30,24 +30,7 @@ A collection of tools to aid server admins.
    ```bash
    chmod +x *.sh
    ```
-
-3. (Optional) Add the directory to your PATH for easy access:
-   ```bash
-   export PATH="$PATH:$(pwd)"
-   ```
-
-## Usage
-
-Each script can typically be run directly:
-```bash
-./script-name.sh [arguments]
-```
-
-For specific usage instructions, refer to individual script documentation or run:
-```bash
-./script-name.sh --help
-```
-
+   
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues and pull requests to help improve this collection of tools.
